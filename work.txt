@@ -1,4 +1,2 @@
 create page home2 
 create page home3
-create vidio
-ooo
