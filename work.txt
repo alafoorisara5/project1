@@ -1,7 +1,11 @@
 create page home2 
 create page home3
+<<<<<<< HEAD
 cc
 njn
 crdr
 loc
 hi akram
+
+hhhhh
+
