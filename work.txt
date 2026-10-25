@@ -3,4 +3,5 @@ create page home3
 
 create repositry
 create page google
+create page forget pass
 
