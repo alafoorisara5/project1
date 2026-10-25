@@ -1,6 +1,5 @@
 create page home2 
 create page home3
-<<<<<<< HEAD
 
 create repositry
 create page google
